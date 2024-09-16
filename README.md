@@ -42,9 +42,9 @@
 	Telecom, BFSI 
 	Finacle
  
- 7. KONARK
+7. KONARK
 
- 8. Soumyak
+8. Soumyak
 	Works in Muthoot Fincorp One
 	Product Delivery
 	DevOps
@@ -53,20 +53,32 @@
 	Java
 	FinTech
 
+9.Sidharth
+
 
 
 
 FIRST MEETING mom
 ![image](https://github.com/user-attachments/assets/c2e2993a-b9c6-4143-be40-88fba76f4664)
 
-Top 10 Latest Trends in the Telecom Industry (2024)
+Top 10 Latest Trends in the Telecom Industry (2024) 
+
 Internet of Things
+
 Connectivity Solutions
+
 5G & Network Infrastructure
+
 Artificial Intelligence
+
 High-Resolution Content
+
 Cybersecurity
+
 Cloud Computing
+
 Communication Models
+
 Software Defined Networks
+
 Edge Computing

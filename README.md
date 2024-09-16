@@ -44,6 +44,15 @@
  
  7. KONARK
 
+ 8. Soumyak
+	Works in Muthoot Fincorp One
+	Product Delivery
+	DevOps
+	Cloud
+	Program
+	Java
+	FinTech
+
 
 
 

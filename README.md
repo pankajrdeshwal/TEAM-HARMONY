@@ -42,9 +42,9 @@
 	Telecom, BFSI 
 	Finacle
  
-7. KONARK
+7.KONARK
 
-8. Soumyak
+8.Soumyak
 	Works in Muthoot Fincorp One
 	Product Delivery
 	DevOps
